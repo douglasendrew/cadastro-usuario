@@ -1,0 +1,12 @@
+.logo img {
+    width: 300px;
+    background-image:none
+}
+
+.logo {
+    background-color: darkgrey;
+}
+
+body {
+    text-align: center;
+}
